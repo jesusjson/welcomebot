@@ -1,0 +1,20 @@
+{
+  "name": "jesusaudiobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jesus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg": "^0.0.4",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "opusscript": "^0.0.8"
+  }
+}
